@@ -20,11 +20,7 @@ class Stack
   obj<T>* ptrAtEnd = NULL;
 
 public:
-   Stack()
-   {
-
-
-   }
+   Stack(){}
 
    void push(T);
    void pop();
